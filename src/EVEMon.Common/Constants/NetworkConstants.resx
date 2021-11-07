@@ -182,7 +182,7 @@
     <comment>600</comment>
   </data>
   <data name="ESICharacterSheet" xml:space="preserve">
-    <value>/v4/characters/{0:D}/</value>
+    <value>/v5/characters/{0:D}/</value>
     <comment>3600</comment>
   </data>
   <data name="ESIStandings" xml:space="preserve">
@@ -468,11 +468,11 @@
     <comment>3600</comment>
   </data>
   <data name="ESIClones" xml:space="preserve">
-    <value>/v4/characters/{0:D}/clones/</value>
+    <value>/v5/characters/{0:D}/clones/</value>
     <comment>120</comment>
   </data>
   <data name="ESISkills" xml:space="preserve">
-    <value>/v4/characters/{0:D}/skills/</value>
+    <value>/v5/characters/{0:D}/skills/</value>
     <comment>120</comment>
   </data>
   <data name="ESICorporationBookmarks" xml:space="preserve">
@@ -524,7 +524,7 @@
     <value>grant_type=refresh_token&amp;refresh_token={0}</value>
   </data>
   <data name="ESIUpcomingCalendarEventDetails" xml:space="preserve">
-    <value>/v4/characters/{0:D}/calendar/{1:D}/</value>
+    <value>/v5/characters/{0:D}/calendar/{1:D}/</value>
     <comment>5</comment>
   </data>
   <data name="ESIFactionWars" xml:space="preserve">
